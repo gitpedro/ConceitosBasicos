@@ -1,0 +1,15 @@
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\bin\Debug\net8.0\ConceitosBasicosSemInterface.exe
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\bin\Debug\net8.0\ConceitosBasicosSemInterface.deps.json
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\bin\Debug\net8.0\ConceitosBasicosSemInterface.runtimeconfig.json
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\bin\Debug\net8.0\ConceitosBasicosSemInterface.dll
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\bin\Debug\net8.0\ConceitosBasicosSemInterface.pdb
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.AssemblyInfoInputs.cache
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.AssemblyInfo.cs
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.sourcelink.json
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.dll
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\refint\ConceitosBasicosSemInterface.dll
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.pdb
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ConceitosBasicosSemInterface.genruntimeconfig.cache
+C:\Users\pfern\source\repos\ConceitosBasicos\ConceitosBasicosSemInterface\obj\Debug\net8.0\ref\ConceitosBasicosSemInterface.dll
